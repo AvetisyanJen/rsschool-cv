@@ -16,7 +16,7 @@ I am studying programming. I am sure that with my diligence and responsibility I
 * MySQL
 * Git/GitHub
 ***
-##Code Example:
+## Code Example:
 ```javascript
 function fizzbuzz(n)
 {
@@ -42,12 +42,16 @@ function fizzbuzz(n)
 ## Work
 Nothing yet
 ***
-##Education and courses:
+## Education and courses:
 * Armenian State Pedagogical University Af. Kh. Abovyan  
   * Bachelor degree
 * International Scientific-Educational Center Of  NAS  
   * Master Degree                                                                                             
 * JS fullstack web development,Profit Development Company   
-***                      
+*** 
+## Languages:
+* Armenian - native
+* Russian - advanced
+* English - A2+(B1 in process)
                               
                                                                                                  
